@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60" fill="none">
+  <path d="M24.75 46.1625L20 57.5H40L34.35 45.7875" stroke="white" stroke-width="3" stroke-miterlimit="10"></path>
+  <path d="M53.275 45.2125H6.725C4.3875 45.2125 2.5 43.325 2.5 40.9875V6.725C2.5 4.3875 4.3875 2.5 6.725 2.5H53.275C55.6125 2.5 57.5 4.3875 57.5 6.725V40.9875C57.5 43.325 55.6125 45.2125 53.275 45.2125Z" stroke="white" stroke-width="3" stroke-miterlimit="10"></path>
+  <path d="M16.1992 20.0874H11.1992V35.7999H16.1992V20.0874Z" fill="white"></path>
+  <path d="M23.6992 16.3125H18.6992V35.8H23.6992V16.3125Z" fill="white"></path>
+  <path d="M39.3242 25.1124L45.0742 33.3374L39.3242 25.1124Z" stroke="white" stroke-width="3" stroke-miterlimit="10"></path>
+  <path d="M45.0742 16.8875L39.3242 25.1125L29.3242 26.375" stroke="white" stroke-width="3" stroke-miterlimit="10"></path>
+  <path d="M8.75 57.5H51.25" stroke="white" stroke-width="3" stroke-miterlimit="10"></path>
+  <path d="M39.3242 35.175C44.8471 35.175 49.3242 30.6699 49.3242 25.1125C49.3242 19.5552 44.8471 15.05 39.3242 15.05C33.8014 15.05 29.3242 19.5552 29.3242 25.1125C29.3242 30.6699 33.8014 35.175 39.3242 35.175Z" stroke="white" stroke-width="3" stroke-miterlimit="10"></path>
+</svg>

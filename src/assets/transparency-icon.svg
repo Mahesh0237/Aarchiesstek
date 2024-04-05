@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="61" height="61" viewBox="0 0 61 61" fill="none">
+  <g clip-path="url(#clip0_1383_47579)">
+    <mask id="path-1-inside-1_1383_47579" fill="white">
+      <rect x="0.410156" y="0.41095" width="42.5" height="42.5" rx="2"></rect>
+    </mask>
+    <rect x="0.410156" y="0.41095" width="42.5" height="42.5" rx="2" stroke="white" stroke-width="6" mask="url(#path-1-inside-1_1383_47579)"></rect>
+    <mask id="mask0_1383_47579" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="43" height="43">
+      <rect x="0.410156" y="0.41095" width="42.5" height="42.5" rx="1" fill="#0050EF"></rect>
+    </mask>
+    <g mask="url(#mask0_1383_47579)">
+      <path d="M15.4102 1.66095L-29.5898 46.6609" stroke="white" stroke-width="3"></path>
+      <path d="M29.1602 1.66095L-15.8398 46.6609" stroke="white" stroke-width="3"></path>
+      <path d="M42.9102 1.66095L-2.08984 46.6609" stroke="white" stroke-width="3"></path>
+      <path d="M56.6602 1.66095L11.6602 46.6609" stroke="white" stroke-width="3"></path>
+      <path d="M70.4102 1.66095L25.4102 46.6609" stroke="white" stroke-width="3"></path>
+    </g>
+    <mask id="path-8-inside-2_1383_47579" fill="white">
+      <rect x="17.9102" y="17.9109" width="42.5" height="42.5" rx="1"></rect>
+    </mask>
+    <rect x="17.9102" y="17.9109" width="42.5" height="42.5" rx="1" stroke="white" stroke-width="6" mask="url(#path-8-inside-2_1383_47579)"></rect>
+  </g>
+  <defs>
+    <clipPath id="clip0_1383_47579">
+      <rect width="60" height="60" fill="white" transform="translate(0.410156 0.41095)"></rect>
+    </clipPath>
+  </defs>
+</svg>
